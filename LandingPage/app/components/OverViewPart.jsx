@@ -21,11 +21,14 @@ const styles = StyleSheet.create({
   heading: {
     marginTop: 20,
     fontSize: 25,
-    fontWeight: "700",
+    // fontWeight: "700",
+    fontFamily: "Lato-Bold",
+    color: "#343434",
   },
   text: {
     textAlign: "center",
     fontSize: 23,
+    fontFamily: "Lato-Light",
     paddingHorizontal: 30,
     color: colors.grey,
     marginTop: 10,

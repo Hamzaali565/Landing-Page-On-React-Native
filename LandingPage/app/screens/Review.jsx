@@ -37,8 +37,11 @@ const styles = StyleSheet.create({
   },
   text: {
     alignSelf: "center",
-    fontSize: 25,
-    fontWeight: "bold",
+    fontSize: 28,
+    color: "#343434",
+
+    // fontWeight: "bold",
+    fontFamily: "Lato-Bold",
   },
   pad: {
     paddingHorizontal: 40,

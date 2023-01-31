@@ -37,6 +37,7 @@ const styles = StyleSheet.create({
   text: {
     fontSize: 20,
     color: colors.white,
+    fontFamily: "Lato-Regular",
   },
 });
 export default AppInputText;

@@ -22,7 +22,9 @@ const styles = StyleSheet.create({
   heading: {
     marginTop: 20,
     fontSize: 25,
-    fontWeight: "700",
+    // fontWeight: "700",
+    fontFamily: "Lato-Bold",
+    color: "#343434",
   },
   imageContainer: {
     width: 250,
@@ -30,6 +32,7 @@ const styles = StyleSheet.create({
     borderRadius: 125,
   },
   text: {
+    fontFamily: "Lato-Light",
     marginTop: 10,
     color: colors.grey,
     textAlign: "center",

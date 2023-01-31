@@ -38,6 +38,7 @@ const styles = StyleSheet.create({
     paddingVertical: 70,
   },
   copyRight: {
+    fontFamily: "Lato-Light",
     color: colors.grey,
     alignSelf: "center",
     marginTop: 18,
@@ -51,6 +52,7 @@ const styles = StyleSheet.create({
   text: {
     color: colors.blue,
     textDecorationLine: "underline",
+    fontFamily: "Lato-Regular",
   },
   threeText: {
     flexDirection: "row",
@@ -61,6 +63,7 @@ const styles = StyleSheet.create({
     alignSelf: "center",
     textDecorationLine: "underline",
     color: colors.blue,
+    fontFamily: "Lato-Regular",
     marginTop: 10,
   },
 });

@@ -31,6 +31,7 @@ const styles = StyleSheet.create({
     textAlign: "center",
     paddingHorizontal: 15,
     lineHeight: 30,
+    fontFamily: "Lato-Bold",
   },
   twoFields: {
     marginTop: 20,

@@ -26,8 +26,9 @@ const styles = StyleSheet.create({
   },
   text: {
     color: colors.white,
-    fontWeight: "700",
+    fontWeight: "900",
     fontSize: 35,
+    fontFamily: "Lato-Bold",
     textAlign: "center",
     paddingHorizontal: 15,
     lineHeight: 45,
